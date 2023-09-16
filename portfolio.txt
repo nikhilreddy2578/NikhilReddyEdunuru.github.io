@@ -13,7 +13,7 @@ Contact
 /* Hero
 --------------------------------------------------
 
-Hi, I am Dave,<br>Web Developer.
+Hi, I am Nikhil,<br>Web Developer.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
 Assumenda voluptates ad numquam, officiis accusamus similique 
