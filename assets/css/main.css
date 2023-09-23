@@ -703,6 +703,7 @@ body {
 
   .hero__img {
     justify-self: flex-end;
+    border-radius: 60% !important;
   }
 }
 
