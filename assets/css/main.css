@@ -333,7 +333,7 @@ body {
   .hero__img {
     width: 280px;
     justify-self: center;
-    border-radius: 60%;
+    border-radius: 60% !important;
   }
 }
 
