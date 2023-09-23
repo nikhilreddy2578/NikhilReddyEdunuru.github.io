@@ -1,5 +1,5 @@
 :root {
-  /* Colors
+  /*     color: oldlace  background-color: rgba(0,0,0,.9); Colors
   ____________________*/
   --color-primary: #25ab75;
   --color-primary-dark: #208c61;
@@ -72,6 +72,7 @@ ul,
 p {
   margin: 0;
   padding: 0;
+  color: oldlace !important;
 }
 
 ul {
@@ -93,7 +94,8 @@ main {
 }
 
 body {
-  background-color: var(--color-bg-primary);
+  /*background-color: var(--color-bg-primary);*/
+  background-color: rgba(0,0,0,.9);
   font-family: var(--ff-body);
   font-size: var(--fs-md);
   color: var(--color-text);
@@ -175,7 +177,8 @@ body {
 /* Header
 --------------------------------------------------------------*/
 .header {
-  background-color: var(--color-bg-primary);
+ /* background-color: var(--color-bg-primary);*/
+ background-color: rgba(0,0,0,.9);
   position: fixed;
   top: 0;
   left: 0;
@@ -330,6 +333,7 @@ body {
   .hero__img {
     width: 280px;
     justify-self: center;
+    border-radius: 60%;
   }
 }
 
